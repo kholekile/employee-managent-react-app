@@ -1,0 +1,10 @@
+.no-content-container{
+    width: 400px;
+    margin: auto;
+}
+
+.employee-list-item{
+    background-color: grey;
+    margin: 2rem;
+    border-radius: 22px;
+}

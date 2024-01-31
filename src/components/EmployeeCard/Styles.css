@@ -1,0 +1,27 @@
+.employee-card-container{
+    display: flex;
+    justify-content: space-between
+}
+
+.employee-card-counter {
+    color: #7430a6;
+    width: 1rem;
+    border: 1px #7430a6 solid;
+    border-radius: 65px;
+    text-align: center;
+    padding-top: 0.1rem;
+    margin: 1rem;
+}
+
+.employee-card-detail {
+    text-align: left;
+}
+
+.employee-card-button{
+    padding: 17px;
+}
+
+.employee-card-button-group{
+    display: flex;
+    flex-direction: row-reverse;
+}

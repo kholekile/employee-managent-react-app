@@ -1,0 +1,16 @@
+.search-container{
+    width: 300px;
+    border-radius: 8px;
+    background: transparent;
+}
+
+.search-input{
+    width: 100%;
+    border: 1px solid white;
+    width: 100%;
+    max-width: 360px;
+    height: 30px;
+    border-radius: 8px;
+    margin: 0 auto;
+    background: transparent;
+}

@@ -1,0 +1,46 @@
+body{
+  margin:0;
+  background-color:#110010;
+}
+
+p, input, select{
+  color: white
+}
+
+.primary-button {
+  border-radius: 76px;
+  border: 1px solid #000;
+  padding: 10px 20px;
+  background: #7430a6;
+  font-size: 1em;
+  cursor: pointer;
+  color: white;
+
+}
+
+.button-secondary{
+  color: orange;
+  width: 1rem;
+  border-radius: 65px;
+  text-align: center;
+  padding-top: 0.1rem;
+  margin: 1rem;
+  cursor: pointer;
+
+}
+
+.button-danger{
+  color: red;
+  width: 1rem;
+  border-radius: 65px;
+  text-align: center;
+  padding-top: 0.1rem;
+  margin: 1rem;
+  cursor: pointer;
+
+}
+
+label {
+  display:block;
+  color: white
+}
